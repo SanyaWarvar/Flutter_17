@@ -1,16 +1,4 @@
-# first
+Екурсы не позволяют загрузить архив с проектом, тк стоит ограничение в 50мб, а архив весит 255мб.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/SanyaWarvar/Flutter_17/assets/120565896/5da019f6-d912-40c8-a3ee-383663124aa3)
+![image](https://github.com/SanyaWarvar/Flutter_17/assets/120565896/d7c5d063-b29c-405a-8fc1-360e3b7d0629)
